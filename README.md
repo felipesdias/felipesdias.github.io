@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# WikiWp WordPress Theme
 
-You can use the [editor on GitHub](https://github.com/felipesdias/felipesdias.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://github.com/FlorianSteller/wikiwp/blob/master/images/wikiwp-brand-logo.png" alt=""/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Download the Theme](https://wordpress.org/themes/wikiwp/)
 
-### Markdown
+## Licence
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The WikiWP theme is released under the MIT license. For detailed information see [license.md](https://github.com/FlorianSteller/wikiwp/blob/master/license.md)
 
-```markdown
-Syntax highlighted code block
+## Localization
 
-# Header 1
-## Header 2
-### Header 3
++ English (default)
++ German (de_DE.mo by Florian Steller)
++ Brazilian Portuguese (pt_BR.mo by Mauro Mascarenhas)
 
-- Bulleted
-- List
+## Changelog
 
-1. Numbered
-2. List
+### Current Version: 1.8.2
 
-**Bold** and _Italic_ and `Code` text
+#### New in this version:
 
-[Link](url) and ![Image](src)
-```
+##### Bug fixes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ Removed unused text domain *label* from search form localization
++ Fixed problem with wrong assigned post comments
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipesdias/felipesdias.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See the whole [changelog](https://github.com/FlorianSteller/wikiwp/blob/master/changelog.md)
